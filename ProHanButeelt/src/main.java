@@ -13,7 +13,6 @@ public class main {
 		int[] mas=new int[n];
 		System.out.println("Дараалалын элементүүдийг оруулна уу:");
 		System.out.print("n["+1+"]=");
-		mas[0]=scan.nextInt();
 		for(int i=1; i<n; i++) {
 			System.out.print("n["+(i+1)+"]=");
 	        mas[i]=scan.nextInt();
