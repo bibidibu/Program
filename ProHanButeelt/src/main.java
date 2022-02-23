@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class main {
 	//hi ganzo bn 
+	//12345
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
